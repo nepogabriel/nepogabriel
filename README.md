@@ -1,7 +1,7 @@
 - 👋 Sup! I'm Gabriel.
-- 👨🏽‍💻 I'm currently working as a Full Stack Developer at Santri Web.
-- ⚛️ Lately I've been working with PHP, Laravel, and JavaScript.
-- 🌱 Also learning and practicing Clean Code, Clean Architecture, and Automated Testing (TDD).
+- 👨🏽‍💻 I'm currently working as a Full Stack Developer at <a target="_blank" href="https://santriweb.santri.com.br/">Santri Web</a>.
+- ⚛️ Lately I've been working with <a target="_blank" href="https://www.php.net/releases/8.3/en.php">PHP</a>, <a target="_blank" href="https://laravel.com/">Laravel</a> and <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a>.
+- 🌱 Also learning and practicing <a target="_blank" href="https://www.linkedin.com/posts/gabriel-ribeiro-br_caejdigolimpo-desenvolvimentodesoftware-programaaexaeto-activity-7216445594934906881-qqI-?utm_source=share&utm_medium=member_desktop">Clean Code</a>, <a href="https://github.com/nepogabriel">Clean Architecture</a>, and <a href="https://github.com/nepogabriel">Automated Testing</a> (TDD).
 
 
 <!--
